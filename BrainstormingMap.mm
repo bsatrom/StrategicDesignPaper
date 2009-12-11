@@ -72,6 +72,15 @@
 </node>
 </node>
 </node>
-<node CREATED="1260369759020" ID="ID_1853391140" MODIFIED="1260369768496" POSITION="left" TEXT="Summary"/>
+<node CREATED="1260369759020" ID="ID_1853391140" MODIFIED="1260369768496" POSITION="left" TEXT="Summary">
+<node CREATED="1260557799607" ID="ID_1429552588" MODIFIED="1260557817322" TEXT="We are creating architectures that will quickly become irellevant">
+<node CREATED="1260557851125" ID="ID_638793708" MODIFIED="1260557855456" TEXT="Big Ball of Mud"/>
+</node>
+<node CREATED="1260557859502" ID="ID_82887392" MODIFIED="1260557876839" TEXT="The Domain expressed in code is a core asset to the buisiness">
+<node CREATED="1260557877724" ID="ID_1000753525" MODIFIED="1260557883879" TEXT="that&apos;s where you spend your time on"/>
+<node CREATED="1260557917762" ID="ID_1067810677" MODIFIED="1260557928224" TEXT="work with the business to identify what the core software assets are"/>
+<node CREATED="1260557928685" ID="ID_733528526" MODIFIED="1260557941011" TEXT="help them understand from a tech perspective, where the money needs to go"/>
+</node>
+</node>
 </node>
 </map>
