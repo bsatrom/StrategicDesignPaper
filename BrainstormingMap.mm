@@ -30,6 +30,14 @@
 <node CREATED="1260235264716" ID="ID_51673048" MODIFIED="1260235273633" POSITION="right" TEXT="Relevant, evolving and valuable"/>
 <node CREATED="1260235277061" ID="ID_1879861473" MODIFIED="1260235284170" POSITION="right" TEXT="Identifying the core domain is key"/>
 <node CREATED="1260235284644" ID="ID_928938325" MODIFIED="1260235293792" POSITION="right" TEXT="Context, Distillation and Large-scale structure"/>
+<node CREATED="1260556143040" ID="ID_1776095279" MODIFIED="1260556146932" POSITION="right" TEXT="Paul&apos;s Notes">
+<node CREATED="1260556148928" ID="ID_1702815257" MODIFIED="1260556401487" TEXT="The Need to focus on growing designers">
+<node CREATED="1260556164149" ID="ID_964595197" MODIFIED="1260556173154" TEXT="just re-read No Silver Bullet"/>
+<node CREATED="1260556179935" ID="ID_511346450" MODIFIED="1260556229860" TEXT="Invest in people are good designers">
+<node CREATED="1260556190461" ID="ID_743722084" MODIFIED="1260556203273" TEXT="Keep architectures relevant by focusing on good designers"/>
+</node>
+</node>
+</node>
 <node CREATED="1260235417236" ID="ID_513516169" MODIFIED="1260369521352" POSITION="left" TEXT="Potential Titles">
 <node CREATED="1260235443066" ID="ID_1980250991" MODIFIED="1260369775029" TEXT="Keeping Architectures Relevant: Using strategic-design and BDD to create useful and usable models ">
 <icon BUILTIN="button_cancel"/>
@@ -37,19 +45,31 @@
 <node CREATED="1260236964786" ID="ID_781195029" MODIFIED="1260369784778" TEXT="Keeping Architectures Relevant: Using domain-driven design to create useful and useable models">
 <icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1260237527863" ID="ID_1825450530" MODIFIED="1260369782166" TEXT="Keeping Architectures Relevant: Using domain-driven design and emergent architecture to create useful and useable models">
+<node CREATED="1260237527863" ID="ID_1825450530" MODIFIED="1260556803297" TEXT="Keeping Architectures Relevant: Using domain-driven design and emergent architecture to manage complexity and enable change.">
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
 <node CREATED="1260235421436" ID="ID_969240374" MODIFIED="1260369771944" POSITION="left" TEXT="Key Takeaways (2-3)">
-<node CREATED="1260237705387" ID="ID_850574673" MODIFIED="1260369808124" TEXT="The establishment of a ubiquitous language--which removes the built-in translation layer between domain experts and the development team--is key to relevant modeling"/>
-<node CREATED="1260237016543" ID="ID_470611499" MODIFIED="1260237819407" TEXT="Domain-driven design enables the architect to articulate the architecture through models that are both relevant to the business and clear to the development team."/>
-<node CREATED="1260237826691" ID="ID_349890486" MODIFIED="1260370020302" TEXT="DDD models are not data-only software models, they are rich representations of domain information and behavior, expressed through diagrams, documents and code">
-<arrowlink DESTINATION="ID_349890486" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_608799228" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<node CREATED="1260237964998" ID="ID_1794540322" MODIFIED="1260237983192" TEXT="DDD models can be expressed in UML, but are no substitute for working code"/>
+<node CREATED="1260237705387" FOLDED="true" ID="ID_850574673" MODIFIED="1260557006684" TEXT="The establishment of a ubiquitous language--which removes the built-in translation layer between domain experts and the development team--is key to relevant modeling">
+<node CREATED="1260555752658" ID="ID_916542147" MODIFIED="1260555770040" TEXT="Talk BDD in the context of a ubiquitous language">
+<node CREATED="1260555779563" ID="ID_300022742" MODIFIED="1260555786071" TEXT="Dan North on BDD and DDD"/>
 </node>
-<node CREATED="1260238066200" ID="ID_1962618075" MODIFIED="1260370087999" TEXT="Architects must allow architectures to mature, emerge and evolve, fully expecting that their initial design will both morph and become more useful to domain experts and the development team over time">
+</node>
+<node CREATED="1260237016543" ID="ID_470611499" MODIFIED="1260557010320" TEXT="Domain-driven design enables the architect to articulate the architecture through models that are both relevant to the business and clear to the development team.">
+<node CREATED="1260237826691" ID="ID_349890486" MODIFIED="1260370020302" TEXT="DDD models are not data-only software models, they are rich representations of domain information and behavior, expressed through diagrams, documents and code">
+<arrowlink DESTINATION="ID_349890486" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1336311921" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
+<node CREATED="1260237964998" ID="ID_1794540322" MODIFIED="1260237983192" TEXT="DDD models can be expressed in UML, but are no substitute for working code"/>
+<node CREATED="1260556407127" ID="ID_1278066475" MODIFIED="1260556433602" TEXT="focusing on the essential complexity of the domain"/>
+<node CREATED="1260556440427" ID="ID_49491685" MODIFIED="1260556462287" TEXT="about dealing with complexity">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1260238066200" ID="ID_1962618075" MODIFIED="1260555972361" TEXT="Architects must allow architectures to mature, emerge and evolve, fully expecting that their initial design will both morph and become more useful to domain experts and the development team over time">
 <node CREATED="1260237991765" ID="ID_1575369061" MODIFIED="1260238051837" TEXT="By staying involved with the development and evolution of the domain, an architect can remain both connected to the business problem and the code that is being written to solve that problem. The result is relevance to both parties"/>
+<node CREATED="1260556435794" ID="ID_1457963069" MODIFIED="1260556459353" TEXT="handling change">
+<icon BUILTIN="idea"/>
+</node>
 </node>
 </node>
 <node CREATED="1260369759020" ID="ID_1853391140" MODIFIED="1260369768496" POSITION="left" TEXT="Summary"/>
