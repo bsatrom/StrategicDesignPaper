@@ -1,19 +1,19 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1259936912964" ID="ID_1851320527" MODIFIED="1260369507621" TEXT="Keeping Architectures Relevant: Using strategic domain-driven design something, something, something">
-<node CREATED="1259939166751" ID="ID_172584322" MODIFIED="1259939171714" POSITION="right" TEXT="Language importance">
+<node CREATED="1259936912964" ID="ID_1851320527" MODIFIED="1262268777492" TEXT="Keeping Architectures Relevant: Using domain-driven design and emergent architecture to manage complexity and enable change.">
+<node CREATED="1259939166751" FOLDED="true" ID="ID_172584322" MODIFIED="1262268445169" POSITION="right" TEXT="Language importance">
 <node CREATED="1259939175982" ID="ID_501052994" MODIFIED="1259939179659" TEXT="Cost of translation"/>
 <node CREATED="1259939180190" ID="ID_24023486" MODIFIED="1259939193288" TEXT="Getting Devs and biz on same page"/>
 <node CREATED="1259942542300" ID="ID_1519116725" MODIFIED="1259942551366" TEXT="dialoge example of the pain of translation">
 <node CREATED="1260237919082" ID="ID_1886228133" MODIFIED="1260237947763" TEXT="write a short, back and forth script that illustrates dialogue with translation and dialogue with a ubiquitous language"/>
 </node>
 </node>
-<node CREATED="1259939195756" ID="ID_1738466863" MODIFIED="1259939215450" POSITION="right" TEXT="staying relevant as an architect">
+<node CREATED="1259939195756" FOLDED="true" ID="ID_1738466863" MODIFIED="1262268483371" POSITION="right" TEXT="staying relevant as an architect">
 <node CREATED="1259942529376" ID="ID_1636668656" MODIFIED="1260238168164" TEXT="It&apos;s important to live with the decisions you make"/>
 <node CREATED="1259939216708" ID="ID_1402960552" MODIFIED="1260238179403" TEXT="Express architectures in code"/>
 </node>
 <node CREATED="1259939230115" ID="ID_789096791" MODIFIED="1259939239455" POSITION="right" TEXT="UML was not intended to be a programming language"/>
-<node CREATED="1259939433217" ID="ID_1504754603" MODIFIED="1259939440861" POSITION="right" TEXT="examples of no longer being relevant">
+<node CREATED="1259939433217" FOLDED="true" ID="ID_1504754603" MODIFIED="1262268515505" POSITION="right" TEXT="examples of no longer being relevant">
 <node CREATED="1259939441713" ID="ID_1410584619" MODIFIED="1259939450468" TEXT="Square IS A Rectangle example">
 <node CREATED="1260237893971" ID="ID_68403399" MODIFIED="1260237912222" TEXT="This sounds great to an architect, but the implementation can create friction"/>
 </node>
@@ -38,24 +38,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1260235417236" ID="ID_513516169" MODIFIED="1260369521352" POSITION="left" TEXT="Potential Titles">
-<node CREATED="1260235443066" ID="ID_1980250991" MODIFIED="1260369775029" TEXT="Keeping Architectures Relevant: Using strategic-design and BDD to create useful and usable models ">
-<icon BUILTIN="button_cancel"/>
-</node>
-<node CREATED="1260236964786" ID="ID_781195029" MODIFIED="1260369784778" TEXT="Keeping Architectures Relevant: Using domain-driven design to create useful and useable models">
-<icon BUILTIN="button_cancel"/>
-</node>
-<node CREATED="1260237527863" ID="ID_1825450530" MODIFIED="1260556803297" TEXT="Keeping Architectures Relevant: Using domain-driven design and emergent architecture to manage complexity and enable change.">
-<icon BUILTIN="button_ok"/>
-</node>
-</node>
-<node CREATED="1260235421436" ID="ID_969240374" MODIFIED="1260369771944" POSITION="left" TEXT="Key Takeaways (2-3)">
-<node CREATED="1260237705387" FOLDED="true" ID="ID_850574673" MODIFIED="1260557006684" TEXT="The establishment of a ubiquitous language--which removes the built-in translation layer between domain experts and the development team--is key to relevant modeling">
+<node CREATED="1260235421436" ID="ID_969240374" MODIFIED="1262092059812" POSITION="left" TEXT="Key Takeaways (2-3)">
+<node CREATED="1260237705387" FOLDED="true" ID="ID_850574673" MODIFIED="1262268927371" TEXT="The establishment of a ubiquitous language--which removes the built-in translation layer between domain experts and the development team--is key to relevant modeling">
 <node CREATED="1260555752658" ID="ID_916542147" MODIFIED="1260555770040" TEXT="Talk BDD in the context of a ubiquitous language">
 <node CREATED="1260555779563" ID="ID_300022742" MODIFIED="1260555786071" TEXT="Dan North on BDD and DDD"/>
 </node>
 </node>
-<node CREATED="1260237016543" ID="ID_470611499" MODIFIED="1260557010320" TEXT="Domain-driven design enables the architect to articulate the architecture through models that are both relevant to the business and clear to the development team.">
+<node CREATED="1260237016543" FOLDED="true" ID="ID_470611499" MODIFIED="1262269020446" TEXT="Domain-driven design enables the architect to articulate the architecture through models that are both relevant to the business and clear to the development team.">
 <node CREATED="1260237826691" ID="ID_349890486" MODIFIED="1260370020302" TEXT="DDD models are not data-only software models, they are rich representations of domain information and behavior, expressed through diagrams, documents and code">
 <arrowlink DESTINATION="ID_349890486" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1336311921" STARTARROW="None" STARTINCLINATION="0;0;"/>
 </node>
@@ -65,14 +54,27 @@
 <icon BUILTIN="idea"/>
 </node>
 </node>
-<node CREATED="1260238066200" ID="ID_1962618075" MODIFIED="1260555972361" TEXT="Architects must allow architectures to mature, emerge and evolve, fully expecting that their initial design will both morph and become more useful to domain experts and the development team over time">
+<node CREATED="1260238066200" FOLDED="true" ID="ID_1962618075" MODIFIED="1262269109208" TEXT="Architects must allow architectures to mature, emerge and evolve, fully expecting that their initial design will both morph and become more useful to domain experts and the development team over time">
 <node CREATED="1260237991765" ID="ID_1575369061" MODIFIED="1260238051837" TEXT="By staying involved with the development and evolution of the domain, an architect can remain both connected to the business problem and the code that is being written to solve that problem. The result is relevance to both parties"/>
 <node CREATED="1260556435794" ID="ID_1457963069" MODIFIED="1260556459353" TEXT="handling change">
 <icon BUILTIN="idea"/>
 </node>
+<node CREATED="1260573171361" ID="ID_1060607400" MODIFIED="1262269044779">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <div class="ace-line" id="magicdomid602">
+      . More than just creating flexible architectures that support code evolution, a relevant architecture is one that itself can evolve over the life of a system.
+    </div>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1260369759020" ID="ID_1853391140" MODIFIED="1260369768496" POSITION="left" TEXT="Summary">
+</node>
+<node CREATED="1260369759020" FOLDED="true" ID="ID_1853391140" MODIFIED="1262268872968" POSITION="left" TEXT="Summary">
 <node CREATED="1260557799607" ID="ID_1429552588" MODIFIED="1260557817322" TEXT="We are creating architectures that will quickly become irellevant">
 <node CREATED="1260557851125" ID="ID_638793708" MODIFIED="1260557855456" TEXT="Big Ball of Mud"/>
 </node>
